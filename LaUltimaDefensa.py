@@ -32,4 +32,4 @@ for i in range(len(result_matrix)):
 print(y - 1)
 print(x)
 
-missed, started the count in 0 
+# missed, started the count in 0 
